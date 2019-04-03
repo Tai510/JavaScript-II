@@ -5,7 +5,7 @@ function goatList() {
   function basketball () {
     console.log(`The list for the 5 greatest NBA players are ${goatList} `)
   }
-}
+} 
 
 /* STRETCH PROBLEMS, Do not attempt until you have completed all previous tasks for today's project files */
 
